@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&center=true&vCenter=true&width=800&lines=Heyy%2C+I'm+Taha!+%3C3;Glad+to+have+you+here...)](https://git.io/typing-svg)  
 </div>  
 <h3>
-I am a rising senior year Computer Science student interested in Distributed Systems for Machine Learning.
+I am a rising senior year Computer Science student interested in Systems for Machine Learning.
 </h3>
   
 
