@@ -1,22 +1,21 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+### <div align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&center=true&vCenter=true&width=800&lines=Heyy%2C+I'm+Taha!+%3C3;Glad+to+have+you+here...)](https://git.io/typing-svg)  
 </div>  
-  
-
-### <div align="center">I'm Taha, a rising Computer Science senior at Lahore University of Management Sciences</div>  
+<h3>
+I am a rising senior year Computer Science student interested in Distributed Systems for Machine Learning.
+</h3>
   
 
 🌱  I’m currently learning all about:
   
   
 
-- Federated Learning   
-  
-
-- Natural Language Processing  
-  
+- Federated Learning     
 
 - Distributed Systems  
+
+- Natural Language Processing  
   
 
 <br/>  
@@ -98,25 +97,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taham0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 <br />
