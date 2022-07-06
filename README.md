@@ -1,4 +1,5 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+ 
+![](https://komarev.com/ghpvc/?username=taham0)
 ### <div align="left">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&center=true&vCenter=true&width=800&lines=Heyy%2C+I'm+Taha!+%3C3;Glad+to+have+you+here...)](https://git.io/typing-svg)  
 </div>  
